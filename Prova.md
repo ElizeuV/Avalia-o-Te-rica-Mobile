@@ -2,7 +2,7 @@
 
 ### 1 Descreva a arquitetura do sistema operacional Android
 
-A arquitetura da plataforma Android é constituída por cinco módulos: Kernel Linux, Biblioteca, Runtime (ambiente de execução), Framework de Aplicações e Aplicações![image](https://user-images.githubusercontent.com/94203670/161329414-a3b5f6bb-91f6-4531-a232-e8712d9c443c.png)
+A arquitetura da plataforma Android é constituída por cinco módulos: Kernel Linux, Biblioteca, Runtime (ambiente de execução), Framework de Aplicações.
 
 ### 2 Descreva como desenvolvemos interfaces em aplicações Android nativas em Kotlin
 
